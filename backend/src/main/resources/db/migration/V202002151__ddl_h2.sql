@@ -1,0 +1,9 @@
+CREATE SCHEMA IF NOT EXISTS public;
+--
+DROP TABLE IF EXISTS items;
+--
+CREATE TABLE items (
+    id UUID NOT NULL DEFAULT RANDOM_UUID(),
+    content VARCHAR NOT NULL,
+    CONSTRAINT items_pk PRIMARY KEY ( id )
+);
