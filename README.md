@@ -2,7 +2,7 @@
 Testing complex dockerized microservices system with Selenide e2e integration tests based on TestContainers Selenium
 remote web-driver
 
-Status: IN PROGRESS
+Status: Please, check [this](https://github.com/daggerok/testcontainers-examples) repo instead.
 
 ```
                                  TestContainers
@@ -14,6 +14,8 @@ Status: IN PROGRESS
 ```
 
 ## resources
+
+* [GitHub: daggerok/testcontainers-examples](https://github.com/daggerok/testcontainers-examples)
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/)
 * [Spring Data R2DBC [Experimental]](https://docs.spring.io/spring-data/r2dbc/docs/1.0.x/reference/html/#reference)
